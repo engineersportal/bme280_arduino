@@ -1,4 +1,3 @@
-# gravity_radius_latitude
-Calculating gravitational acceleration and earth's radius as a function of geodetic latitude in Python
+# BME280 and Arduino Experiments with Python derivations and implementations for radius of earth and gravitational acceleration plus comparison of varying algorithms for barometric pressure
 
 ![Image description](/bme280_arduino_wiring_smaller.png)
