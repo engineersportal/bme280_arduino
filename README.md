@@ -14,6 +14,7 @@ Wiring the BME280, SD Card, and LiPo Battery for Arduino Data Acquisition:
 | A4  | SDI |
 
 | Arduino Pin  | SD Module Pin |
+| :---: | :--- |
 | 5V  | VCC  |
 | GND | GND  |
 | D11 | MOSI |
