@@ -1,4 +1,4 @@
-# BME280 and Arduino Experiments with Python derivations and implementations for radius of earth and gravitational acceleration plus comparison of varying algorithms for barometric pressure
+# BME280 and Arduino Experiments with Python derivations and implementations for radius of earth and gravitational acceleration plus Datalogging with SD Card
 
 Plot of gravity and radius with respect to latitude variations:
 
