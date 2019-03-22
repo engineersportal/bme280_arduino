@@ -6,4 +6,9 @@ Plot of gravity and radius with respect to latitude variations:
 
 Wiring the BME280, SD Card, and LiPo Battery for Arduino Data Acquisition:
 
+| Arduino Pin  | Module Pin |
+| ------------- | ------------- |
+| 5V  | BME280 - VIN  |
+| Content Cell  | Content Cell  |
+
 ![bme280 wiring for arduino I2C communication](/bme280_arduino_sd_card.png)
